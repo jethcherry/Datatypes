@@ -10,6 +10,6 @@ function capitalize(inputString) {
 }
 
 
-const inputString = "how are you doing ";
-const result = capitalize(inputString);
+const String = "how are you doing ";
+const result = capitalize(String);
 console.log("Capitalized Words:", result);
